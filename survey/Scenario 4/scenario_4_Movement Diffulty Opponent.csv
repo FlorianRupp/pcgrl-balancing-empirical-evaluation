@@ -1,0 +1,13 @@
+scenario;variable;answer_unbalanced;answer_balanced
+4;movement-opponent;2;2
+4;movement-opponent;2;2
+4;movement-opponent;2;1
+4;movement-opponent;2;2
+4;movement-opponent;2;2
+4;movement-opponent;2;1
+4;movement-opponent;2;1
+4;movement-opponent;2;1
+4;movement-opponent;2;2
+4;movement-opponent;1;0
+4;movement-opponent;1;-1
+4;movement-opponent;-1;1

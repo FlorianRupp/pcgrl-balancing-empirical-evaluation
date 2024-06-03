@@ -1,0 +1,13 @@
+scenario;variable;answer_unbalanced;answer_balanced
+4;water-opponent;2;0
+4;water-opponent;2;1
+4;water-opponent;1;1
+4;water-opponent;2;2
+4;water-opponent;0;0
+4;water-opponent;0;0
+4;water-opponent;0;0
+4;water-opponent;0;0
+4;water-opponent;-1;-1
+4;water-opponent;-1;0
+4;water-opponent;0;0
+4;water-opponent;0;-1

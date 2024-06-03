@@ -1,0 +1,17 @@
+scenario;variable;answer_unbalanced;answer_balanced
+1;water;-1;0
+1;water;-2;0
+1;water;-1;0
+1;water;0;0
+1;water;-2;-2
+1;water;-2;0
+1;water;2;0
+1;water;-1;0
+1;water;-1;1
+1;water;-2;0
+1;water;0;1
+1;water;0;2
+1;water;-2;-1
+1;water;-2;0
+1;water;-2;0
+1;water;-2;-1
